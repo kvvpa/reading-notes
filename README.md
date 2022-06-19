@@ -9,7 +9,7 @@ My name is Joseph Cristina, but you can call me Joey. I am a Web Developer in tr
 
 ## growth mindset
 
-Growth mindset is acceptance that it is **within your power** to make things happen. It is the difference between courage and fear, and an instrinsic acceptance of failure as a normal part of one's journey towards one's goals and greatness.
+Growth mindset is acceptance that it is **within your power** to make things happen. It is the difference between courage and fear, and an instrinsic acceptance of failure as a normal part of one's journey towards goals and greatness.
 
 I can remind myself to stay in a growth mindset by:
 
