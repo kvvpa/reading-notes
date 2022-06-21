@@ -14,7 +14,7 @@ Today was the first class of Code 102: Introduction to Web Development. After cl
 * embed images  
 ..and much more.
 
-I want to highlight some features I was previously unaware of. I did not know that you can create footnotes[^1]. I was also surprised to learn about task lists[^2] such as these:
+I want to highlight some features I was previously unaware of. I did not know that you can create footnotes.[^1] I was also surprised to learn about task lists[^2] such as these:
 
 - [x] Day One of Code 102
 - [ ] Day Two of Code 102
