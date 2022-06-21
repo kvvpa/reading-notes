@@ -3,7 +3,7 @@
 
 ###### 6/20/22 - Code 102 - Day One
 
-Today I reviewed information about **Markdown**. Markdown is a language that helps to format documents easily. With some slight syntax changes, you can:
+Today I reviewed information about **Markdown**. Markdown is a language that helps to format documents easily. With some slight syntax additions to your text, you can:
 
 * create bulletpoints
 * create numbered lists
@@ -13,7 +13,7 @@ Today I reviewed information about **Markdown**. Markdown is a language that hel
 * embed images  
 ..and much more.
 
-I want to point out some features I was previously unaware of. I did not know that you can create footnotes[^1]. I was also surprised to learn about task lists[^2] such as these:
+I want to highlight some features I was previously unaware of. I did not know that you can create footnotes[^1]. I was also surprised to learn about task lists[^2] such as these:
 
 - [x] Day One of Code 102
 - [ ] Day Two of Code 102
