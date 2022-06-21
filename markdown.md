@@ -3,13 +3,14 @@
 
 ###### 6/20/22 - Code 102 - Day One
 
-Today I reviewed information about **Markdown**. Markdown is a language that helps to format documents easily. With some slight syntax additions to your text, you can:
+Today was the first class of Code 102: Introduction to Web Development. After class introductions and an orientation slideshow, I reviewed information about **Markdown**. Markdown is a language that helps to format documents easily. With some syntax, you can format a document using nothing but text. It was explained that Markdown is used every day by developers for documentation. Some examples of what can be done are: 
 
 * create bulletpoints
 * create numbered lists
 * **bold** and _italic_ text
 * create headers of varying sizes
-* create hyperlinks
+* create [hyperlinks](https://github.com/kvvpa)
+* `code snippets`
 * embed images  
 ..and much more.
 
