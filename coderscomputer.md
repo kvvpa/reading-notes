@@ -1,7 +1,7 @@
 
 # The Coder's Computer
 
-###### 6/20/22 - Code 102 - Day Two
+###### 6/21/22 - Code 102 - Day Two
 
 Today was focused on setting up development environments on our computers, on interacting with the Terminal, and interacting with text editors.
 
