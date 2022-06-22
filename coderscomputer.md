@@ -1,19 +1,21 @@
 
 # The Coder's Computer
 
-###### 6/20/22 - Code 102 - Day One
+###### 6/20/22 - Code 102 - Day Two
 
-Today was focused on setting up development environments on our computers, on interacting with the Terminal, and interacting with text editors. 
+Today was focused on setting up development environments on our computers, on interacting with the Terminal, and interacting with text editors.
 
 ## Text Editors
+
 * Which text editor is _'best'_ is a matter of preference.
-* There are certain features that can make a developer's job easier, such as syntax highlighting (to help your code's readability) and code completion (to help you type code faster and more accurately). 
+* There are certain features that can make a developer's job easier, such as syntax highlighting (to help your code's readability) and code completion (to help you type code faster and more accurately).
 * Some text editors offer extensions, which are like plugins that expand their capabilities.
 * Text editors should always only handle plain text without styling.
 
 As for me personally, I am somewhat familiar with Visual Studio Code and plan to use that text editor unless my needs change.
 
 ## The Command Line
+
 * It is common in development to have multiple command lines open at a time, doing different tasks in each.
 * The command line (or terminal) issues a prompt and you type commands and arguments(/options) for it to respond to.
 
@@ -41,6 +43,4 @@ There are two types of paths, absolute and relative. Absolute begins at the root
 * Linux doesn't care about extensions, only the contents of the file.
 * Linux is case sensitive.
 * To indicate spaces in file names, you need to use `'quotes'` or escape characters `\`.
-* Some files can be hidden. You can hide a file by placing a `.` before its name. 
-
-
+* Some files can be hidden. You can hide a file by placing a `.` before its name.
