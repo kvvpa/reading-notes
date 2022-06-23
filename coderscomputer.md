@@ -1,7 +1,7 @@
 
 # The Coder's Computer
 
-###### 6/21/22 - Code 102 - Day Two
+##### 6/21/22 - Code 102 - Day Two
 
 Today was focused on setting up development environments on our computers, on interacting with the Terminal, and interacting with text editors.
 
@@ -32,6 +32,8 @@ Below is a few commands used to navigate around your system:
 |            .           | References current directory                                                                             |
 |           ..           | References parent directory. You can move up the hierarchy by using this in succession, i.e. `../../../` |
 |       file [path]      | Tells you what kind of file it is                                                                        |
+|       mkdir      | Creates a new directory                                                                        |
+|       touch [filename]      | Creates a new file                                                                        |
 
 ### Absolute and Relative Paths
 
