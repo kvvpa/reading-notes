@@ -48,3 +48,5 @@ There are two types of paths, absolute and relative. Absolute begins at the root
 * Linux is case sensitive.
 * To indicate spaces in file names, you need to use `'quotes'` or escape characters `\`.
 * Some files can be hidden. You can hide a file by placing a `.` before its name.
+
+[Return Home](README)

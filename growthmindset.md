@@ -9,3 +9,5 @@ I can remind myself to stay in a growth mindset by:
 * Not seeking perfection because perfection doesn't exist.
 
 >_Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do. So sail away from the safe harbour. Explore, Dream, Discover._ **- Mark Twain**
+
+[Return Home](README)

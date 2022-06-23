@@ -31,3 +31,5 @@ Today I learned about Git, the software underneath Github. I learned that it is 
   The area for staging
   * _Head_
   Points to the most recent commit
+
+[Return Home](README)
