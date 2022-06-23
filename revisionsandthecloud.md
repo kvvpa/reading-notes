@@ -5,12 +5,12 @@
 
 Today I learned about Git, the software underneath Github. I learned that it is a way to collaborate with others on the same project, save your work, and prevent problems from arising during the process. I learned some basic Git terminal commands, such as:
 
-`git clone` - Clones the repository
-`git add .` - Adds all the files changed that are to be tracked by Git
-`git commit -m 'message here'` - Commits changes
-`git push origin main` - Sends changes to Github
-`git status` - Lets your know the standing of modified files and whether they are staged to be committed or not, or if there are commits needing to be pushed
-`git stash` - Allows you to temporarily hide changes you're not ready to commit
+* `git clone` - Clones the repository
+* `git add .` - Adds all the files changed that are to be tracked by Git
+* `git commit -m 'message here'` - Commits changes
+* `git push origin main` - Sends changes to Github
+* `git status` - Lets your know the standing of modified files and whether they are staged to be committed or not, or if there are commits needing to be pushed
+* `git stash` - Allows you to temporarily hide changes you're not ready to commit
 
 I also learned how to set up Git in the terminal. I had difficulty with the Github authentication today, but luckily a TA was able to help me sort it out! Here are some notes from the reading:
 
