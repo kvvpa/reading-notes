@@ -17,6 +17,7 @@ You can see my [Github Portfolio][Github], or connect with me on [LinkedIn][Link
 * [Day One](markdown)
 * [Day Two](coderscomputer)
 * [Day Three](revisionsandthecloud)
+* [Day Four](structurehtml)
 
 [Github]: https://github.com/kvvpa
 [LinkedIn]: https://linkedin.com/in/kvvpa
