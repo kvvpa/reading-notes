@@ -34,6 +34,8 @@ Below is a few commands used to navigate around your system:
 |       file [path]      | Tells you what kind of file it is                                                                        |
 |       mkdir      | Creates a new directory                                                                        |
 |       touch [filename]      | Creates a new file                                                                        |
+|       cp [file] ../[folder]       | Copies the file into the folder that is located one directory back                                                                        |
+|       mv [file] ../[folder]       | Moves the file into the folder that is located one directory back                                                                        |
 
 ### Absolute and Relative Paths
 
