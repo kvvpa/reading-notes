@@ -3,7 +3,9 @@
 
 ##### 6/22/22 - Code 102 - Day Three
 
-Today I learned about Git, the software underneath Github. I learned that it is a way to collaborate with others on the same project, save your work, and prevent problems from arising during the process.
+Today I learned about Git, the software underneath Github. I learned that it is a way to collaborate with others on the same project, save your work, and prevent problems from arising during the process. I learned some basic Git commands, such as:
+
+
 
 * Version Control Systems help to record changes throughout the process of a project, so that mistakes can be fixed easily.
 * Distributed Version Control Systems, like **Git**, allow for multiple mirrored repositories to prevent data loss and allow for teams to collaborate and complete joint projects.
@@ -32,4 +34,22 @@ Today I learned about Git, the software underneath Github. I learned that it is 
   * _Head_
   Points to the most recent commit
 
-[Return Home](README)
+## Lecture Notes
+
+- git lives on your machine
+- github is on the web
+- git is used for sharing code
+- git lets multiple devs work on the same code
+- repository is really just a folder
+- helps with collaboration
+- commits are snapshots in time of the document
+- 'head' current state, where you're at, all else is historical
+- you give the snapshot a label called a message
+- github is not git. you push your code to github. effectively an online backup.
+- uses git's features to help manage work
+- a repo is is a collection of files you've told git to pay attention to
+- one project = one repo, usually
+- really large projects might have multiple repositories for different parts of their system
+- repos can live on github and/or computer
+
+[Return Home](https://kvvpa.github.io/reading-notes/)
