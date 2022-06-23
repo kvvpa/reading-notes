@@ -52,4 +52,4 @@ Today I learned about Git, the software underneath Github. I learned that it is 
 - really large projects might have multiple repositories for different parts of their system
 - repos can live on github and/or computer
 
-[Return Home](https://kvvpa.github.io/reading-notes/)
+[Table of Contents](https://kvvpa.github.io/reading-notes/)
