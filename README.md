@@ -14,10 +14,11 @@ You can see my [Github Portfolio][Github], or connect with me on [LinkedIn][Link
 ## table of contents
 
 * [Growth Mindset](growthmindset)
-* [Day One](markdown)
-* [Day Two](coderscomputer)
-* [Day Three](revisionsandthecloud)
-* [Day Four](structurehtml)
+* [Day One - Markdown](markdown)
+* [Day Two - The Coder's Computer](coderscomputer)
+* [Day Three - Revisions and the Cloud](revisionsandthecloud)
+* [Day Four - Structure Web Pages with HTML](structurehtml)
+* [Day Five - Design Web Pages with CSS](designcss)
 
 [Github]: https://github.com/kvvpa
 [LinkedIn]: https://linkedin.com/in/kvvpa
