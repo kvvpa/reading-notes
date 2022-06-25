@@ -19,6 +19,7 @@ You can see my [Github Portfolio][Github], or connect with me on [LinkedIn][Link
 * [Day Three - Revisions and the Cloud](revisionsandthecloud)
 * [Day Four - Structure Web Pages with HTML](structurehtml)
 * [Day Five - Design Web Pages with CSS](designcss)
+* [Day Six - Dynamic Web Pages with Javascript](javascript)
 
 [Github]: https://github.com/kvvpa
 [LinkedIn]: https://linkedin.com/in/kvvpa
