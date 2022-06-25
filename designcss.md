@@ -3,7 +3,7 @@
 
 ##### 6/25/22 - Code 102 - Day Five
 
-* CSS Stands for Cascadig Style Sheets
+* CSS Stands for Cascading Style Sheets
 * It allows you to specify the appearance of the elements within an HTML document. CSS can help to change how things are positioned, what text looks like, and how content is displayed.
 * Default styling exists already within the browser (/user agent), and will require a "CSS Reset" in order to control all of it manually.
 * CSS is a rule-based language, meaning you choose an HTML element and apply specific rules to it to make it display how you like.
