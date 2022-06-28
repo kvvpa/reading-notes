@@ -27,7 +27,7 @@
 * Functions can be used as variable values.
 * Variables declared within a fucntion are local to the function and can't be accessed outside of it. They are deleted when the function is completed.
 
-## Javascript Arithemtic Operators Cheat Sheet
+## Arithemtic Operators Cheat Sheet
 
 * `+` - Addition
 * `-` - Subtraction
@@ -38,7 +38,7 @@
 * `++` - Increment
 * `--` - Decrement
 
-## Javascript Assignment Operators Cheat Sheet
+## Assignment Operators Cheat Sheet
 
 Example | Same As
 * `x = y` - same as - `x = y`
@@ -49,7 +49,7 @@ Example | Same As
 * `x %= y` - same as - `x = x % y`
 * `x **= y` - same as - `x = x ** y`
 
-## Javascript String Operators
+## String Operators
 
 * The `+` operator can be used to concatenate strings, as in to bring them together. The `+=` operator can be used to add strings such as like this:
 
@@ -59,5 +59,28 @@ greeting += ', today?';
 ```
 
 * Adding two numbers will return the sum, but adding a number and a string will return a string. 
+
+## Comparison Operators Cheat Sheet
+
+* `==` - equal to
+* `===` - equal value & equal type
+* `!=` - not equal
+* `!==` - not equal value or not equal type
+* `>` - greater than
+* `<` - less than
+* `>=` - greater than or equal to
+* `<=` - less than or equal to
+* `?` - ternary operator
+
+## Logical Operators
+
+* `&&` - logical and
+* `||` - logical or
+* `!` - logical not
+
+## Type Operators
+
+* `typeof` - Returns the type of a variable
+* `instanceof` - Returns true if an object is an instance of an object type
 
 [Table of Contents](https://kvvpa.github.io/reading-notes/)
