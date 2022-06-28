@@ -12,6 +12,7 @@
 ## Functions
 
 * A function is a block of code designed to perform a task
+* Should take an input and return an output where there is some obvious relationship between the input and the output.
 * Formula for a function is the `function` keyword, followed by a name and parenthesis, such as:
 
 `function name();`
