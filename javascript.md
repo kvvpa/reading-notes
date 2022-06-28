@@ -24,9 +24,13 @@
 # Data Types
 
 * Numbers
-* Strings
+* Strings (single or double quotes)
 * Booleans
 * NaN
 * Undefined
+
+# Lab Notes
+
+In my lab I referenced [this page](https://www.delftstack.com/howto/javascript/change-css-property-using-javascript/) for information relating to the stretch goal.
 
 [Table of Contents](https://kvvpa.github.io/reading-notes/)
